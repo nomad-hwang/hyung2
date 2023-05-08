@@ -1,9 +1,9 @@
 {
-  "name": "Page Redder",
+  "name": "형 이거봤어?",
   "action": {},
   "manifest_version": 3,
-  "version": "0.1",
-  "description": "Turns the page red when you click the icon",
+  "version": "1.0",
+  "description": "형 이거봤어?",
   "permissions": ["activeTab", "scripting", "tabs"],
   "background": {
     "service_worker": "background.js"
